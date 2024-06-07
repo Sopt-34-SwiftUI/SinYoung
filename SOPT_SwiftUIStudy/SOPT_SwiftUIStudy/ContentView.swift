@@ -12,7 +12,6 @@ struct ContentView: View {
       ZStack {
          Color.black.ignoresSafeArea()
          VStack {
-            Spacer()
             ScreenView()
             NumberPadView()
          }
