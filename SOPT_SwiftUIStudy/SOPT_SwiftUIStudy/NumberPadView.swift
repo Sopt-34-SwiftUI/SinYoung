@@ -30,7 +30,6 @@ struct NumberPadView: View {
          }
          HStack {
             NumberButton(text: "0")
-            NumberButton(text: "0")
             NumberButton(text: ".")
             OperatorButton(text: "=")
          }
