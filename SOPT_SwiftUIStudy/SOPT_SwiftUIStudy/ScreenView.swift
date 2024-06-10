@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ScreenView: View {
    var body: some View {
+      Spacer()
       HStack {
          Spacer()
          Text("990,919")
